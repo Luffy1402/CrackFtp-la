@@ -1,32 +1,147 @@
-# Stellar Data Recovery Pro Free 🌟
+# CrackFtp-la 🚀
 
-Welcome to the Stellar Data Recovery Pro Free repository! Here you can find information about stellar phoenix data recovery pro, stellar phoenix windows data recovery pro download, stellar phoenix windows data recovery pro v7, stellar data recovery 8 pro, stellar phoenix windows data recovery pro key, stellar phoenix data recovery pro crack, stellar phoenix windows data recovery pro review, and more!
+![GitHub release](https://img.shields.io/github/release/Luffy1402/CrackFtp-la.svg) ![GitHub issues](https://img.shields.io/github/issues/Luffy1402/CrackFtp-la.svg) ![GitHub stars](https://img.shields.io/github/stars/Luffy1402/CrackFtp-la.svg)
 
-## Repository Details
-- **Repository Name:** Stellar-Data-Recovery-Pro-Free
-- **Short Description:** Explore stellar phoenix data recovery pro, stellar phoenix windows data recovery pro download, stellar phoenix windows data recovery pro v7, stellar data recovery 8 pro, stellar phoenix windows data recovery pro key, stellar phoenix data recovery pro crack, stellar phoenix windows data recovery pro review and more.
-- **Topics:** download-stellar-phoenix-windows-data-recovery-pro, stellar-data-recovery-8-pro, stellar-data-recovery-pro, stellar-data-recovery-pro-crack, stellar-phoenix-data-recovery-pro, stellar-phoenix-data-recovery-pro-activation-key, stellar-phoenix-data-recovery-pro-crack, stellar-phoenix-data-recovery-pro-keygen, stellar-phoenix-windows-data-recovery-pro, stellar-phoenix-windows-data-recovery-pro-crack, stellar-phoenix-windows-data-recovery-pro-download, stellar-phoenix-windows-data-recovery-pro-key, stellar-phoenix-windows-data-recovery-pro-keygen, stellar-phoenix-windows-data-recovery-pro-review, stellar-phoenix-windows-data-recovery-pro-v7, windows-data-recovery-pro-stellar-data-recovery
+## Overview
 
-## Get Started
-To access the content related to stellar phoenix data recovery pro, stellar phoenix windows data recovery pro, and more, you can download the repository content from the following link:
-[![Download Stellar Data Recovery Pro](https://telegra.ph/Download-05-02-264?amcibzjbaezpm2b)](https://telegra.ph/Download-05-02-264?t2hqep16vur8387)
+CrackFtp-la is a powerful script designed for mass FTP checking and cracking. It helps users test login credentials against secure domains. The script notifies users via Telegram when it successfully logs into a domain. This tool is essential for security professionals and anyone interested in penetration testing.
 
-### Note:
-- If the link ends with the file name, make sure to launch it to start exploring the Stellar Data Recovery Pro Free content.
+## Features
 
-## Explore Further
-If you are interested in learning more about Stellar Data Recovery Pro Free, feel free to visit the link provided above. Dive into the world of stellar phoenix data recovery pro, stellar phoenix windows data recovery pro, and discover the capabilities of this powerful tool.
+- **Mass FTP Checking**: Test multiple login credentials at once.
+- **Login Alerts**: Receive notifications on successful logins via Telegram.
+- **User-Friendly Interface**: Easy to use console application.
+- **Cross-Platform Support**: Works on Linux and other systems.
+- **Open Source**: Free to use and modify.
 
-For additional updates or alternate download options, don't forget to check the **Releases** section of this repository.
+## Topics
 
-Let's embark on a journey of data recovery excellence with Stellar Data Recovery Pro Free! 🚀🔍📁
+This project covers various topics including:
 
-![Stellar Data Recovery](https://telegra.ph/Download-05-02-264?g35vlt67j9hiwnn)
+- console-application
+- electron
+- github
+- hacking-tool
+- linux
+- mass-checker
+- pentesting
+- react
+- script-automation
+- security
+- wordpress
+- wordpress-checkers
+- wp
+- wp-login
+- wpcheckers
 
-Happy Data Recovery! 🌌🛠️
+## Getting Started
 
----
+To get started with CrackFtp-la, you need to download the latest release. Visit [this link](https://github.com/Luffy1402/CrackFtp-la/releases) to find the necessary files. Download and execute the script to begin your FTP checking process.
 
-Remember to keep your data safe and always have a reliable data recovery solution like Stellar Data Recovery Pro Free on hand. If you encounter any issues or have any feedback, feel free to reach out. Enjoy exploring the world of data recovery with Stellar! 🌠🔒
+### Prerequisites
 
----
+Before running the script, ensure you have the following:
+
+- Python 3.x installed
+- Required libraries (see Installation section)
+- A Telegram account for notifications
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Luffy1402/CrackFtp-la.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd CrackFtp-la
+   ```
+
+3. Install the required libraries:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Set up your Telegram bot for notifications. Follow the steps below to create a bot:
+
+   - Open Telegram and search for "BotFather".
+   - Start a chat and create a new bot by following the prompts.
+   - Save the API token provided by BotFather.
+
+5. Configure the bot token in the script. Open `config.py` and add your token:
+
+   ```python
+   TELEGRAM_BOT_TOKEN = 'your_bot_token_here'
+   ```
+
+## Usage
+
+To run the script, execute the following command in your terminal:
+
+```bash
+python crackftp.py
+```
+
+Follow the prompts to input your target domains and credentials. The script will begin checking the provided credentials against the specified FTP servers.
+
+### Example Command
+
+```bash
+python crackftp.py --target yourdomain.com --userlist users.txt --passlist passwords.txt
+```
+
+## Telegram Notifications
+
+Once you set up your Telegram bot, you will receive alerts on successful logins. This feature allows you to monitor your tests effectively without constantly checking the console output.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+
+### Steps to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature:
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+3. Make your changes and commit them:
+
+   ```bash
+   git commit -m "Add your message here"
+   ```
+
+4. Push to your branch:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. Create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Issues
+
+If you encounter any problems or have questions, please check the [Issues](https://github.com/Luffy1402/CrackFtp-la/issues) section of the repository. 
+
+## Releases
+
+For the latest updates and releases, visit the [Releases](https://github.com/Luffy1402/CrackFtp-la/releases) section. Here, you can download the latest version of the script and access previous versions as well.
+
+## Acknowledgments
+
+- Thanks to the open-source community for their contributions and support.
+- Special thanks to the developers of the libraries used in this project.
+
+## Conclusion
+
+CrackFtp-la is a valuable tool for anyone interested in FTP security testing. Its mass checking capability, combined with Telegram notifications, makes it an efficient solution for penetration testing. Download the latest version from the [Releases](https://github.com/Luffy1402/CrackFtp-la/releases) section and start testing today!
